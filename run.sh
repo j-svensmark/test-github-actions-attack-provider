@@ -1,1 +1,1 @@
-echo "Hello world"
+echo "Hello, you've been hacked!"
